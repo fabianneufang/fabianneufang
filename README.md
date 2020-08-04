@@ -7,7 +7,8 @@
 
 <div align="center">
   <br />
-  <img align="center" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefabicraft-github" />
+  <img alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefabicraft-github" />
+  <img alt="Top Langauges" src="https://github-readme-stats.vercel.app/api?username=thefabicraft-github&show_icons=true&count_private=true?theme=radical" />
 </div>
 
 <!--
