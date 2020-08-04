@@ -7,7 +7,6 @@
 
 <div align="center">
   <br />
-  <p>hi</p>
   <img align="center" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefabicraft-github" />
 </div>
 
