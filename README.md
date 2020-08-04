@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Discord Status](https://kromise.neufang.eu/@me/status)
+![Activity](https://kromise.neufang.eu/@me/activity)
+![Listening to](https://kromise.neufang.eu/@me/spotify)
+![Local Time](https://kromise.neufang.eu/@me/time)
+
 <!--
 **thefabicraft-github/thefabicraft-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
