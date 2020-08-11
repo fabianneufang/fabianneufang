@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Discord Status](https://kromise.neufang.eu/@me/status)
+<!--![Discord Status](https://kromise.neufang.eu/@me/status)
 ![Activity](https://kromise.neufang.eu/@me/activity)
 ![Listening to](https://kromise.neufang.eu/@me/spotify)
-![Local Time](https://kromise.neufang.eu/@me/time)
+![Local Time](https://kromise.neufang.eu/@me/time)-->
 
 <div align="center">
   <br />
