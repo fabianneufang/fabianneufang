@@ -1,0 +1,28 @@
+name: README Update
+
+on:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull changes (if any)
+        run: git pull
+      - name: Node install
+        run: yarn install
+      - name: Update README
+        run: node .
+      - name: Commit & Push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_email: 'github-actions@neufang.eu'
+          author_name: '(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧'
+          message: 'Update README.md'
+          branch: 'main'
+          force: true
