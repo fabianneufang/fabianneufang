@@ -64,6 +64,8 @@ const fetcher = (variables, token) => {
 
 fs.readFile("./README_blueprint.md", async (err, blueprint) => {
     if (err) throw err;
+
+    console.log(process.env)
     
     const res = await fetcher({ login: "fabianneufang" }, "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")
     let totalCommits = res.data.data.user.contributionsCollection.totalCommitContributions
