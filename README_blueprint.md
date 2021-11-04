@@ -8,7 +8,7 @@ Self-employed software developer, specializing in building [**React**](https://r
 
 ## FAQ
 
-### How many commits have you dont so far?
+### How many commits have you done so far?
 
 I have pushed {{TOTALCOMMITS}} commits to GitHub this year.
 
