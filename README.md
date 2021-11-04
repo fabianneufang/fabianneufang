@@ -7,8 +7,8 @@
 
 <div align="center">
   <br />
-  <img alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefabicraft-github&hide_border=true" />
-  <img alt="Top Langauges" src="https://github-readme-stats.vercel.app/api?username=thefabicraft-github&show_icons=true&hide_border=true&count_private=true?theme=radical" />
+  <img alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianneufang&hide_border=true" />
+  <img alt="Top Langauges" src="https://github-readme-stats.vercel.app/api?username=fabianneufang&show_icons=true&hide_border=true&count_private=true?theme=radical" />
 </div>
 
 - 🔭 I’m currently working on mobile apps
