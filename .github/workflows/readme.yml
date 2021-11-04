@@ -15,7 +15,7 @@ jobs:
         run: git pull
       - name: Node install
         run: yarn install
-      - name Set GitHub Token
+      - name: Set GitHub Token
         run: |
           touch .env
           echo GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} >> .env
