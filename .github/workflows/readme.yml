@@ -16,7 +16,9 @@ jobs:
       - name: Node install
         run: yarn install
       - name Set GitHub Token
-        run: echo "GITHUB_TOKEN=$(echo '${{ secrets.GITHUB_TOKEN }}'')" >> $GITHUB_ENV
+        run: |
+          touch .env
+          echo GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} >> .env
       - name: Update README
         run: node .
       - name: Commit & Push

@@ -1,5 +1,8 @@
 const axios = require("axios");
 const fs = require('fs');
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 const arabicToRoman = (number) => {
   const romanNumerals = {
