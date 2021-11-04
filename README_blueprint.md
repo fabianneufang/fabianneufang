@@ -12,7 +12,7 @@ Self-employed software developer, specializing in building [**React**](https://r
 
 I have pushed {{TOTALCOMMITS}} commits to GitHub this year.
 
-### Your commits are unsigned? Have you been hacked?
+### Your commits are partly unsigned? Have you been hacked?
 
 No. 😅
 
