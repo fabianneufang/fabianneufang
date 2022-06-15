@@ -4,13 +4,13 @@ Self-employed software developer, specializing in building [**React**](https://r
 
 ## A little bit of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/DpPzk19K67.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/b5eAGAy3Pl.jpg)
 
 ## FAQ
 
 ### How many commits have you done so far?
 
-I have pushed DCIV commits to GitHub this year.
+I have pushed DCV commits to GitHub this year.
 
 ### Your commits are partly unsigned? Have you been hacked?
 
