@@ -4,7 +4,7 @@ Self-employed software developer, specializing in building [**React**](https://r
 
 ## A little bit of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/RMPD4Zq0PO.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/N8JQABA9J9.jpg)
 
 ## FAQ
 
