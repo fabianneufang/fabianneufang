@@ -4,4 +4,4 @@ Software Engineer at Wolters Kluwer.
 
 ## A little bit of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/DpPzyM3EJ7.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/bRelGBRx67.jpg)
